@@ -1,0 +1,559 @@
+{
+  "Json_Data": [
+    {
+      "HouseAds_package": "market://details?id=com.fujigames.memesoundboardgold",
+      "HouseAds_image": "https://i.imgur.com/zFaygqM.jpg",
+      "HouseAds_icon": "https://i.imgur.com/2snCjkk.jpg",
+      "HouseAds_title": "Make Money",
+      "HouseAds_button": "Download",
+      "HouseAds_stars": "4.7 ®",
+      "HouseAds_privacy": "https://policies.google.com/privacy",
+      "HouseAds_txt": "We have put a lot of time and thought into this application and hope you will enjoy it.",
+
+      "Admob_interstitial": "ca-app-pub-3940256099942544/1033173712",
+      "Admob_banner": "ca-app-pub-3940256099942544/6300978111",
+      "Facebook_interstitial": "IMG_16_9_APP_INSTALL#00000000000000000000000000000",
+      "Facebook_banner": "IMG_16_9_APP_INSTALL#00000000000000000000000000000",
+      "Appodeal_id": "01234567890123457890145789",
+      "Unity_id": "00000000000000000000000000000",
+      "Startapp_id": "00000000000000000000000000000",
+
+      "Active_Ad_network": "admob_ads",
+      "ClicksTo_showAd": "3",
+      "Active_PackageName": "com.mygfx.freefire",
+
+      "Enable_interstitial": "yes",
+      "Enable_banner": "yes",
+      "Enable_backgroundAds": "no",
+
+      "App_suspended": "no",
+      "NewApp_package": "com.facebook.lite",
+      "NewApp_title": "App update!",
+      "NewApp_message": "please update to new version!",
+
+      "Gdpr_activate": "no",
+      "Gdpr_id": "pub-3940256099942544",
+
+      "Cpa_activate": "yes",
+      "Cpa_text": "Claim Your Free Diamonds Here",
+      "Cpa_image": "https://i.imgur.com/gw4iV9Q.png",
+      "Cpa_url": "https://www.google.com/",
+
+      "Json_Checker": "dont_change_this"
+    }
+  ],
+  "MoreApps": [
+    {
+      "package": "com.whatsapp",
+      "name": "WhatsApp Messenger",
+      "icon": "https://icons-for-free.com/iconfiles/png/512/message+messaging+messenger+round+icon+whatsapp+icon-1320190506693370947.png",
+      "stars": "5"
+    },
+    {
+      "package": "com.instagram.android",
+      "name": "Instagram",
+      "icon": "https://play-lh.googleusercontent.com/h9jWMwqb-h9hjP4THqrJ50eIwPekjv7QPmTpA85gFQ10PjV02CoGAcYLLptqd19Sa1iJ",
+      "stars": "3"
+    },
+    {
+      "package": "com.king.crash",
+      "name": "Crash Bandicoot: On the Run",
+      "icon": "https://play-lh.googleusercontent.com/D5cIl0bz9miRWcDyBNHk2VnRi9vNfsI7321ZCdK6lYvDjMqcAtfmiTlZGsjDhy4bRUpS",
+      "stars": "4"
+    },
+    {
+      "package": "com.nintendo.zara",
+      "name": "Super Mario Run",
+      "icon": "https://play-lh.googleusercontent.com/5LIMaa7WTNy34bzdFhBETa2MRj7mFJZWb8gCn_uyxQkUvFx_uOFCeQjcK16c6WpBA3E",
+      "stars": "5"
+    },
+    {
+      "package": "com.ram.adantime21",
+      "name": "Ramadan Times 2021 Pro",
+      "icon": "https://play-lh.googleusercontent.com/S6TO0mpZMq2CsGG4XLVX3VRoFr3KywX4lVSah677qgoRXs2g-ZphkzuqkMpEZ-p4a6M",
+      "stars": "4"
+    },
+    {
+      "package": "com.alawail.alarm.prayertimes_mobile",
+      "name": "AlAwail Prayer Times",
+      "icon": "https://play-lh.googleusercontent.com/Q3nKBCe4L2FvzQgTTnXAoLumLIKXXUaONU-2GwC6cTjuxkFMayID8IY42oMfUpk1-qE",
+      "stars": "3"
+    }
+  ],
+  "wallpapers": [
+    {
+      "id": "1",
+      "name": "pubg mobile",
+      "image": "https://i.imgur.com/IjhEZzM.jpg"
+    },
+    {
+      "id": "2",
+      "name": "pubg mobile",
+      "image": "https://i.imgur.com/cV1qZkF.jpg"
+    },
+    {
+      "id": "3",
+      "name": "pubg mobile",
+      "image": "https://i.imgur.com/LfUosdM.jpg"
+    },
+    {
+      "id": "4",
+      "name": "pubg mobile",
+      "image": "https://i.imgur.com/2RRGM83.jpg"
+    },
+    {
+      "id": "5",
+      "name": "pubg mobile",
+      "image": "https://i.imgur.com/hwkECph.jpg"
+    },
+    {
+      "id": "6",
+      "name": "pubg mobile",
+      "image": "https://i.imgur.com/22Rst8f.jpg"
+    },
+    {
+      "id": "7",
+      "name": "pubg mobile",
+      "image": "https://i.imgur.com/R1RDz3v.jpg"
+    },
+    {
+      "id": "8",
+      "name": "pubg mobile",
+      "image": "https://i.imgur.com/CAJ9Jzs.jpg"
+    },
+    {
+      "id": "9",
+      "name": "pubg mobile",
+      "image": "https://i.imgur.com/8PzFzxq.jpg"
+    },
+    {
+      "id": "10",
+      "name": "pubg mobile",
+      "image": "https://i.imgur.com/XmoZyWW.jpg"
+    },
+    {
+      "id": "11",
+      "name": "pubg mobile",
+      "image": "https://i.imgur.com/EDTx95j.jpg"
+    },
+    {
+      "id": "12",
+      "name": "pubg mobile",
+      "image": "https://i.imgur.com/fn94nla.jpg"
+    },
+    {
+      "id": "13",
+      "name": "pubg mobile",
+      "image": "https://i.imgur.com/voYGL7Y.jpg"
+    },
+    {
+      "id": "14",
+      "name": "pubg mobile",
+      "image": "https://i.imgur.com/KVWzOd1.jpg"
+    },
+    {
+      "id": "15",
+      "name": "pubg mobile",
+      "image": "https://i.imgur.com/YUDcrtq.jpg"
+    },
+    {
+      "id": "16",
+      "name": "pubg mobile",
+      "image": "https://i.imgur.com/OQ4FLWB.jpg"
+    },
+    {
+      "id": "17",
+      "name": "pubg mobile",
+      "image": "https://i.imgur.com/sCA76oY.jpg"
+    },
+    {
+      "id": "18",
+      "name": "pubg mobile",
+      "image": "https://i.imgur.com/bqtm2y8.jpg"
+    },
+    {
+      "id": "19",
+      "name": "pubg mobile",
+      "image": "https://i.imgur.com/nK4Uayj.jpg"
+    },
+    {
+      "id": "20",
+      "name": "pubg mobile",
+      "image": "https://i.imgur.com/FeXkUqW.jpg"
+    }
+  ],
+  "category": [
+    {
+      "name": "Guide",
+      "image": "https://i.imgur.com/XdJagFL.jpg"
+    },
+    {
+      "name": "Characters",
+      "image": "https://i.imgur.com/Uq1BLR3.png"
+    },
+    {
+      "name": "Skins",
+      "image": "https://i.imgur.com/M8l7S16.png"
+    },
+    {
+      "name": "Vehicles",
+      "image": "https://i.imgur.com/d7OjMkz.png"
+    },
+    {
+      "name": "Weapons",
+      "image": "https://i.imgur.com/UDfhqHM.png"
+    },
+    {
+      "name": "Diamonds",
+      "image": "https://i.imgur.com/dR6aofC.png"
+    }
+  ],
+  "Guide": [
+    {
+      "name": "Intro",
+      "text": "Frre Fire: A Basic Beginner’s Guide",
+      "image": "https://static-cdn.jtvnw.net/ttv-boxart/Garena%20Free%20Fire.jpg",
+      "discription1": "Calling Garena Free Fire a popular game would not do it enough justice. Judging by the numbers on the Google Play Store, the game has been downloaded over 500,000,000 times. By comparison, both PUBG Mobile and Call of Duty: Mobile have been downloaded over 100,000,000 times. So it was high time we gave the game a shot.",
+      "discription2": "If you’re reading this, then chances are that you are new to the game, and possibly the battle royale genre as a whole. So here’s a quick rundown. Garena Free Fire pits you against 49 other players in a battle for survival. You are dropped on an island and it’s up to you to pick a landing spot, find weapons and resources and defeat all other players. Sounds simple right. We assure you, it is NOT! \n\nWe tried playing it and have come up with a few tips that can help you be the last person standing."
+    },
+    {
+      "name": "Trick 1",
+      "text": "The Right Character Choice",
+      "image": "https://cdn-www.bluestacks.com/bs-images/Characters1.png",
+      "discription1": "As your progress through the game, you unlock various characters that you can choose to play as. Each of these characters come with a special ability that can give you the edge in battle. All you need to do is know the type of gameplay you prefer and choose a character accordingly.",
+      "discription2": ""
+    },
+    {
+      "name": "Trick 2",
+      "text": "Use The Minimap To Your Advantage",
+      "image": "https://static.digit.in/default/cd65fd750a374ed703816342194c1a3d63fd3ad7.jpeg",
+      "discription1": "The minimap shows any nearby players that are shooting. This should be at you, or at another player. However, the map will not only show you the location of the enemy players, but also the direction in which they are shooting. This means that you can actually sneak up behind an opponent attacking another player and take them out.",
+      "discription2": ""
+    },
+    {
+      "name": "Trick 3",
+      "text": "Your Reticle Is Your Friend",
+      "image": "https://static.digit.in/default/1bff01ba70a56f0b53505dedbb56c8f96fa346b0.jpeg",
+      "discription1": "One unique aspect of Garena Free Fire is that your reticle changes colour the moment an enemy is in the crosshair. This means that you can use it to ‘scan’ areas where you think an enemy may be. If it changes colour, an enemy is in your sight. You can then fire and get a few hits on the enemy.",
+      "discription2": ""
+    },
+    {
+      "name": "Trick 4",
+      "text": "Burst Fire To Success",
+      "image": "https://static.digit.in/default/28ebd4e9a8b8b5fb946592bbeac03d510370244b.jpeg",
+      "discription1": "While the game has recoil, it’s not exactly reflected when firing weapons. So when you fire your gun, your reticle does not bounce around as it does in a game like PUBG Mobile, even when you’re looking down the sights. This means that you should be able to track your enemies without much difficulty. As such, all you need to do is fire in bursts to ensure good hits.",
+      "discription2": ""
+    },
+    {
+      "name": "Trick 5",
+      "text": "Use Objects For Cover",
+      "image": "https://static.digit.in/default/ab77081b4a041639f664ad97c070b46394602752.jpeg",
+      "discription1": "It’s pretty common for people playing PUBG Mobile to immediately go prone the moment someone is firing at them. That’s not gonna work in Garena Free Fire as there is hardly any grass fo you to hide in. So you’re better off dashing from cover-to-cover. This could be between buildings and trees on the way to the circle and possible victory.",
+      "discription2": ""
+    },
+    {
+      "name": "Trick 6",
+      "text": "Know When To Fire",
+      "image": "https://static.digit.in/default/28ebd4e9a8b8b5fb946592bbeac03d510370244b.jpeg",
+      "discription1": "As with any other battle royale game, it’s very important to realise that it’s not about getting the most number of kills. It’s about survival. So it’s perfectly fine to sit in a corner and wait till the end. If you have to fire, make sure that it’s either in self-defence, or you’re guaranteed a kill. As we said before, the minimap will not only give away your position but also your orientation. Remember, you could kill 48 people on the map and still lose as the other guy just needs one kill.",
+      "discription2": ""
+    }
+  ],
+  "Characters": [
+    {
+      "name": "Name 1",
+      "text": "AK-47, also called Kalashnikov Model 1947, Soviet assault rifle, possibly the most widely used shoulder weapon in the world.",
+      "image": "https://i.imgur.com/PTmUzfi.png",
+      "discription1": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "discription2": "There are many variations of passages of Lorem Ipsum available, It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+    },
+    {
+      "name": "Name 2",
+      "text": "AK-47, also called Kalashnikov Model 1947, Soviet assault rifle, possibly the most widely used shoulder weapon in the world.",
+      "image": "https://i.imgur.com/zZLsdZa.png",
+      "discription1": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "discription2": "There are many variations of passages of Lorem Ipsum available, It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+    },
+    {
+      "name": "Name 3",
+      "text": "AK-47, also called Kalashnikov Model 1947, Soviet assault rifle, possibly the most widely used shoulder weapon in the world.",
+      "image": "https://i.imgur.com/9Iwg6hf.png",
+      "discription1": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "discription2": "There are many variations of passages of Lorem Ipsum available, It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+    },
+    {
+      "name": "Name 4",
+      "text": "AK-47, also called Kalashnikov Model 1947, Soviet assault rifle, possibly the most widely used shoulder weapon in the world.",
+      "image": "https://i.imgur.com/PTmUzfi.png",
+      "discription1": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "discription2": "There are many variations of passages of Lorem Ipsum available, It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+    },
+    {
+      "name": "Name 5",
+      "text": "AK-47, also called Kalashnikov Model 1947, Soviet assault rifle, possibly the most widely used shoulder weapon in the world.",
+      "image": "https://i.imgur.com/zZLsdZa.png",
+      "discription1": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "discription2": "There are many variations of passages of Lorem Ipsum available, It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+    },
+    {
+      "name": "Name 6",
+      "text": "AK-47, also called Kalashnikov Model 1947, Soviet assault rifle, possibly the most widely used shoulder weapon in the world.",
+      "image": "https://i.imgur.com/9Iwg6hf.png",
+      "discription1": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "discription2": "There are many variations of passages of Lorem Ipsum available, It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+    },
+    {
+      "name": "Name 7",
+      "text": "AK-47, also called Kalashnikov Model 1947, Soviet assault rifle, possibly the most widely used shoulder weapon in the world.",
+      "image": "https://i.imgur.com/PTmUzfi.png",
+      "discription1": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "discription2": "There are many variations of passages of Lorem Ipsum available, It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+    },
+    {
+      "name": "Name 8",
+      "text": "AK-47, also called Kalashnikov Model 1947, Soviet assault rifle, possibly the most widely used shoulder weapon in the world.",
+      "image": "https://i.imgur.com/zZLsdZa.png",
+      "discription1": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "discription2": "There are many variations of passages of Lorem Ipsum available, It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+    },
+    {
+      "name": "Name 9",
+      "text": "AK-47, also called Kalashnikov Model 1947, Soviet assault rifle, possibly the most widely used shoulder weapon in the world.",
+      "image": "https://i.imgur.com/9Iwg6hf.png",
+      "discription1": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "discription2": "There are many variations of passages of Lorem Ipsum available, It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+    },
+    {
+      "name": "Name 10",
+      "text": "AK-47, also called Kalashnikov Model 1947, Soviet assault rifle, possibly the most widely used shoulder weapon in the world.",
+      "image": "https://i.imgur.com/PTmUzfi.png",
+      "discription1": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "discription2": "There are many variations of passages of Lorem Ipsum available, It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+    }
+  ],
+  "Skins": [
+    {
+      "name": "Name 1",
+      "text": "AK-47, also called Kalashnikov Model 1947, Soviet assault rifle, possibly the most widely used shoulder weapon in the world.",
+      "image": "https://i.imgur.com/csUBc6e.png",
+      "discription1": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "discription2": "There are many variations of passages of Lorem Ipsum available, It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+    },
+    {
+      "name": "Name 2",
+      "text": "AK-47, also called Kalashnikov Model 1947, Soviet assault rifle, possibly the most widely used shoulder weapon in the world.",
+      "image": "https://i.imgur.com/7BuaFJY.png",
+      "discription1": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "discription2": "There are many variations of passages of Lorem Ipsum available, It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+    },
+    {
+      "name": "Name 3",
+      "text": "AK-47, also called Kalashnikov Model 1947, Soviet assault rifle, possibly the most widely used shoulder weapon in the world.",
+      "image": "https://i.imgur.com/csUBc6e.png",
+      "discription1": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "discription2": "There are many variations of passages of Lorem Ipsum available, It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+    },
+    {
+      "name": "Name 4",
+      "text": "AK-47, also called Kalashnikov Model 1947, Soviet assault rifle, possibly the most widely used shoulder weapon in the world.",
+      "image": "https://i.imgur.com/7BuaFJY.png",
+      "discription1": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "discription2": "There are many variations of passages of Lorem Ipsum available, It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+    },
+    {
+      "name": "Name 5",
+      "text": "AK-47, also called Kalashnikov Model 1947, Soviet assault rifle, possibly the most widely used shoulder weapon in the world.",
+      "image": "https://i.imgur.com/csUBc6e.png",
+      "discription1": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "discription2": "There are many variations of passages of Lorem Ipsum available, It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+    },
+    {
+      "name": "Name 6",
+      "text": "AK-47, also called Kalashnikov Model 1947, Soviet assault rifle, possibly the most widely used shoulder weapon in the world.",
+      "image": "https://i.imgur.com/7BuaFJY.png",
+      "discription1": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "discription2": "There are many variations of passages of Lorem Ipsum available, It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+    },
+    {
+      "name": "Name 7",
+      "text": "AK-47, also called Kalashnikov Model 1947, Soviet assault rifle, possibly the most widely used shoulder weapon in the world.",
+      "image": "https://i.imgur.com/csUBc6e.png",
+      "discription1": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "discription2": "There are many variations of passages of Lorem Ipsum available, It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+    },
+    {
+      "name": "Name 8",
+      "text": "AK-47, also called Kalashnikov Model 1947, Soviet assault rifle, possibly the most widely used shoulder weapon in the world.",
+      "image": "https://i.imgur.com/7BuaFJY.png",
+      "discription1": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "discription2": "There are many variations of passages of Lorem Ipsum available, It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+    },
+    {
+      "name": "Name 9",
+      "text": "AK-47, also called Kalashnikov Model 1947, Soviet assault rifle, possibly the most widely used shoulder weapon in the world.",
+      "image": "https://i.imgur.com/csUBc6e.png",
+      "discription1": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "discription2": "There are many variations of passages of Lorem Ipsum available, It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+    },
+    {
+      "name": "Name 10",
+      "text": "AK-47, also called Kalashnikov Model 1947, Soviet assault rifle, possibly the most widely used shoulder weapon in the world.",
+      "image": "https://i.imgur.com/7BuaFJY.png",
+      "discription1": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "discription2": "There are many variations of passages of Lorem Ipsum available, It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+    }
+  ],
+  "Vehicles": [
+    {
+      "name": "Name 1",
+      "text": "AK-47, also called Kalashnikov Model 1947, Soviet assault rifle, possibly the most widely used shoulder weapon in the world.",
+      "image": "https://i.imgur.com/Lm8MNF0.png",
+      "discription1": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "discription2": "There are many variations of passages of Lorem Ipsum available, It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+    },
+    {
+      "name": "Name 2",
+      "text": "AK-47, also called Kalashnikov Model 1947, Soviet assault rifle, possibly the most widely used shoulder weapon in the world.",
+      "image": "https://i.imgur.com/Lm8MNF0.png",
+      "discription1": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "discription2": "There are many variations of passages of Lorem Ipsum available, It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+    },
+    {
+      "name": "Name 3",
+      "text": "AK-47, also called Kalashnikov Model 1947, Soviet assault rifle, possibly the most widely used shoulder weapon in the world.",
+      "image": "https://i.imgur.com/Lm8MNF0.png",
+      "discription1": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "discription2": "There are many variations of passages of Lorem Ipsum available, It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+    },
+    {
+      "name": "Name 4",
+      "text": "AK-47, also called Kalashnikov Model 1947, Soviet assault rifle, possibly the most widely used shoulder weapon in the world.",
+      "image": "https://i.imgur.com/Lm8MNF0.png",
+      "discription1": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "discription2": "There are many variations of passages of Lorem Ipsum available, It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+    },
+    {
+      "name": "Name 5",
+      "text": "AK-47, also called Kalashnikov Model 1947, Soviet assault rifle, possibly the most widely used shoulder weapon in the world.",
+      "image": "https://i.imgur.com/Lm8MNF0.png",
+      "discription1": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "discription2": "There are many variations of passages of Lorem Ipsum available, It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+    },
+    {
+      "name": "Name 6",
+      "text": "AK-47, also called Kalashnikov Model 1947, Soviet assault rifle, possibly the most widely used shoulder weapon in the world.",
+      "image": "https://i.imgur.com/Lm8MNF0.png",
+      "discription1": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "discription2": "There are many variations of passages of Lorem Ipsum available, It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+    },
+    {
+      "name": "Name 7",
+      "text": "AK-47, also called Kalashnikov Model 1947, Soviet assault rifle, possibly the most widely used shoulder weapon in the world.",
+      "image": "https://i.imgur.com/Lm8MNF0.png",
+      "discription1": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "discription2": "There are many variations of passages of Lorem Ipsum available, It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+    },
+    {
+      "name": "Name 8",
+      "text": "AK-47, also called Kalashnikov Model 1947, Soviet assault rifle, possibly the most widely used shoulder weapon in the world.",
+      "image": "https://i.imgur.com/Lm8MNF0.png",
+      "discription1": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "discription2": "There are many variations of passages of Lorem Ipsum available, It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+    },
+    {
+      "name": "Name 9",
+      "text": "AK-47, also called Kalashnikov Model 1947, Soviet assault rifle, possibly the most widely used shoulder weapon in the world.",
+      "image": "https://i.imgur.com/Lm8MNF0.png",
+      "discription1": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "discription2": "There are many variations of passages of Lorem Ipsum available, It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+    },
+    {
+      "name": "Name 10",
+      "text": "AK-47, also called Kalashnikov Model 1947, Soviet assault rifle, possibly the most widely used shoulder weapon in the world.",
+      "image": "https://i.imgur.com/Lm8MNF0.png",
+      "discription1": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "discription2": "There are many variations of passages of Lorem Ipsum available, It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+    }
+  ],
+  "Weapons": [
+    {
+      "name": "Name 1",
+      "text": "AK-47, also called Kalashnikov Model 1947, Soviet assault rifle, possibly the most widely used shoulder weapon in the world.",
+      "image": "https://i.imgur.com/pnaZeby.png",
+      "discription1": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "discription2": "There are many variations of passages of Lorem Ipsum available, It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+    },
+    {
+      "name": "Name 2",
+      "text": "AK-47, also called Kalashnikov Model 1947, Soviet assault rifle, possibly the most widely used shoulder weapon in the world.",
+      "image": "https://i.imgur.com/pnaZeby.png",
+      "discription1": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "discription2": "There are many variations of passages of Lorem Ipsum available, It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+    },
+    {
+      "name": "Name 3",
+      "text": "AK-47, also called Kalashnikov Model 1947, Soviet assault rifle, possibly the most widely used shoulder weapon in the world.",
+      "image": "https://i.imgur.com/pnaZeby.png",
+      "discription1": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "discription2": "There are many variations of passages of Lorem Ipsum available, It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+    },
+    {
+      "name": "Name 4",
+      "text": "AK-47, also called Kalashnikov Model 1947, Soviet assault rifle, possibly the most widely used shoulder weapon in the world.",
+      "image": "https://i.imgur.com/pnaZeby.png",
+      "discription1": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "discription2": "There are many variations of passages of Lorem Ipsum available, It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+    },
+    {
+      "name": "Name 5",
+      "text": "AK-47, also called Kalashnikov Model 1947, Soviet assault rifle, possibly the most widely used shoulder weapon in the world.",
+      "image": "https://i.imgur.com/pnaZeby.png",
+      "discription1": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "discription2": "There are many variations of passages of Lorem Ipsum available, It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+    },
+    {
+      "name": "Name 6",
+      "text": "AK-47, also called Kalashnikov Model 1947, Soviet assault rifle, possibly the most widely used shoulder weapon in the world.",
+      "image": "https://i.imgur.com/pnaZeby.png",
+      "discription1": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "discription2": "There are many variations of passages of Lorem Ipsum available, It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+    },
+    {
+      "name": "Name 7",
+      "text": "AK-47, also called Kalashnikov Model 1947, Soviet assault rifle, possibly the most widely used shoulder weapon in the world.",
+      "image": "https://i.imgur.com/pnaZeby.png",
+      "discription1": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "discription2": "There are many variations of passages of Lorem Ipsum available, It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+    },
+    {
+      "name": "Name 8",
+      "text": "AK-47, also called Kalashnikov Model 1947, Soviet assault rifle, possibly the most widely used shoulder weapon in the world.",
+      "image": "https://i.imgur.com/pnaZeby.png",
+      "discription1": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "discription2": "There are many variations of passages of Lorem Ipsum available, It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+    },
+    {
+      "name": "Name 9",
+      "text": "AK-47, also called Kalashnikov Model 1947, Soviet assault rifle, possibly the most widely used shoulder weapon in the world.",
+      "image": "https://i.imgur.com/pnaZeby.png",
+      "discription1": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "discription2": "There are many variations of passages of Lorem Ipsum available, It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+    },
+    {
+      "name": "Name 10",
+      "text": "AK-47, also called Kalashnikov Model 1947, Soviet assault rifle, possibly the most widely used shoulder weapon in the world.",
+      "image": "https://i.imgur.com/pnaZeby.png",
+      "discription1": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "discription2": "There are many variations of passages of Lorem Ipsum available, It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+    }
+  ],
+  "Diamonds": [
+    {
+      "name": "Free",
+      "text": "How To Collect Free Diamonds In Garena Free Fire",
+      "image": "https://i.imgur.com/PPnug7c.png",
+      "discription1": "Garena offers tons of interesting and fancy content in Free Fire. The wide range of skins of weapons, dresses, characters, bundles, and everything else in Free Fire can be purchased using in-game currency named Diamonds.\n\nFree Fire has the diamond currency system where it can be bought with money and later can be exchanged to procure items.\n\nThe players who can afford to buy the diamonds have the luxury to purchase hefty items but for those who do not like to spend money but still want to get some skins and other items, it is very hard to do so.",
+      "discription2": "If you want to get free diamonds but do not want to spend money on them, here we give you the opportunity which you can earn a few diamonds for free.\nJust click the button above and claim your diamonds gift."
+    }
+  ]
+}
